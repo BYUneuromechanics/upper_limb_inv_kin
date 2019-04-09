@@ -1,0 +1,1 @@
+Complete resource for calibration and inverse kinematics using electromagnetic motion-tracking systems for in-vivo measurements of the upper limb. Detailed instructions and customization options can be found in the document "Inverse Kinematics Instructions". sens2joint.m is the main file that you'll want to run.
